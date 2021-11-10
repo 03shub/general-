@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "delta-pagoda-331206",
+  "private_key_id": "f429490359cac0a67e54cfe7ee0a8f5b7b36ba19",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7D9bjp3hiTk4v\npgThdTA4vr9XccdYE3SN+6M3qH4FrpEf38eINsk8jq5dircUHX7f707Xd+MX2GC+\nk7Jk/EGH1dE2DBQWszoljAa398ecs/U0aqe8YL2k1sdwbCCnD7TRBFugAHmyAocS\nyGalw8JwlkLByQPzI+7j0cB6u2S5jrpRI/UMQf1vDHluLz72qeVl25u/oJvfGpNZ\nnkNVA9yrliPELocGQGHydA3fzOdw046/QjYf20HZfDiA75GyRxNq/Q2zMEQf5ceY\n8f5UDPb3Zhzn8H37WAvV+O23ZQAWbCAHV8GQ3PLKGEXHp2rbL+cDsyDrwDEQDF/K\nSxdxbDe/AgMBAAECggEANK1rttVI5eomQ23Nrw34w+oXaREd8XQdHQSxfHGC96em\nr6KthnLjLZ4ChU4Ua2I5AefavHvC5EqnR9PA54ZQD+gLD9zL5W6YX810cOcie8MD\nuLyWOsrFbP+cz1Bry4/1O+0tvjuUCaiDkCsGGQUtItZ1uyuX5KcIVXiSax2NamFG\n/bEwPFJAYiwPZAj9mu8f9szJf5yTFEJXNaaPLQqd+WaSCSmBEWOw/BIvHBVaCVcq\ne51rzlnowDjnd4JzM+whMR9bmT405sv3raZ7KKYihB5wj0Ab94vFpsbQdnZbKOUW\n3ZX8iAeUWAhDOalROch+PqCQ3efmB5RUZBAlKZL5wQKBgQDswh74BXBixNF15HTR\n7qidZy2nI0ZFfjNFdwdhHnRXYaqyTXcY5X/aW/57l460CRifWp2tzcpPSjw4elAf\n1/0KOfWCdUwEiaYhJqL5gJ9GtSUsc7S7pWJVcKLeHoTTxgsNt2mFahJso7Mg3yJ6\n/1inEgjnswZDZW6IUpNdGUL1fwKBgQDKQ8I/gty4FjuE7WFu6W/GEj3J7/lzi4fm\nBkwNCDoLzC0246ydSNmhns6w/wuP84HtS3CnwYEksDLqvBnXXvEc63i8nzGge/GX\nH8ecXfL9DZ64UlKr3L40QWrLiMYSnvvdFgNxQdhpLa0OTJ0BSyBfFxI+ZyK56c8M\n2HR4Yj5dwQKBgGX+hqrgZPcXxQidv7nEr70HewJazuYXJO1TBsnO/d27BHdFqf3+\nuGKQaQRDWUWz+XiE6BK86d/YojLOdoARY0Apkdt+vp3h0sDLTUBhKbyjQv1wZzbD\nW6ZlHLTFvwEgexiQoBPKi19j8kJB/i+wmzd2LIHsfNFB/CkcMcHUpSTvAoGBAJph\nmZQsaBfCMG/HWAT1/DBsn+jQV9APggzaZZXU36k9kI1Cve/XOPWZZx3FraeUL2lV\nmYkRs2azbkmohPjUKKjwOdmOkKxzrfSxdwQs2Vi42prJivxOoob0H3V20ehInOkk\n8j+yCGJPULWHWJcyJmUuEOi8g87vXO/rDwsLwZqBAoGAVXjPzEs7yk1o10pe87Zl\nR5fW/H9HaMg+xGaA7PHFkuulxKWL3LHIG0Bxm5JZODD4BJangdtrCdkVAQAQnggn\nmPJPNCTHiAGAxzNdBWCEMhsX9CZEuil1VvXaTV1Dih5NpY2AfWJyLYCibuUVG5GD\nFVMgrYu+Es+EOhuBdW479tE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bq-jupyternotebook@delta-pagoda-331206.iam.gserviceaccount.com",
+  "client_id": "102781064082333903575",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bq-jupyternotebook%40delta-pagoda-331206.iam.gserviceaccount.com"
+}
